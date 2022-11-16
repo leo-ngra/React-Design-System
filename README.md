@@ -26,5 +26,9 @@ npm install @radix-ui/react-checkbox
 Obs:
 ### Para deixar o StoryBook rodando na máquina, utilizar:
 ```
-use npm run storybook
+npm run storybook
 ```
+
+Para fazer o deployer, vamos utilizar o seguinte comando:
+
+npm i @storybook/storybook-deployer --save-dev
