@@ -4,7 +4,7 @@
 Projeto Design System de pagina de login utilizando o React.JS, Tailwind e Storybook, e entre outras tecnologias.
 
 
-[    <img src='./public/page-login.png' alt='Layout pagina de Login' />]
+[    <img src='./public/page-login.PNG' alt='Layout pagina de Login' />]
 
 
 ## Tecnologias utilizadas:
