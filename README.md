@@ -29,6 +29,8 @@ Obs:
 npm run storybook
 ```
 
+npm instal @storybook/addons-a11y
+
 Para fazer o deployer, vamos utilizar o seguinte comando:
 
 npm i @storybook/storybook-deployer --save-dev
